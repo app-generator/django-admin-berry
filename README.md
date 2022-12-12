@@ -19,7 +19,7 @@ Modern template for **Django Admin Interface** coded on top of **Berry Dashboard
 
 <br />
 
-![Berry Bootstrap 5 - Dark-Mode ready, Open-source Template.](https://user-images.githubusercontent.com/51070104/203366808-c93b852d-d70c-4b2d-86f2-c146e5f5a05c.jpg)
+![Berry Bootstrap 5 - Dark-Mode ready, Open-source Template.](https://user-images.githubusercontent.com/51070104/207091062-e805b36c-663a-4a01-acb8-9c55ab914f4f.jpg)
 
 <br />
 
@@ -111,7 +111,19 @@ Access the `admin` section in the browser: `http://127.0.0.1:8000/`
 
 ## Screenshots
 
-@ToDo
+![Berry Bootstrap 5 - Sign IN, Open-source Starter by AppSeed.](https://user-images.githubusercontent.com/51070104/207091198-2753246e-3d65-4aac-96de-0598a9a94788.jpg)
+
+<br />
+
+> [Django Admin Berry](https://github.com/app-generator/django-admin-berry) - `Icons` Page
+
+![Berry Bootstrap 5 - UI Icons page, Open-source Starter by AppSeed](https://user-images.githubusercontent.com/51070104/207091655-d5005e08-7ea0-4367-ab3a-2cd16934d2fd.jpg)
+
+<br />
+
+> [Django Admin Berry](https://github.com/app-generator/django-admin-berry) - `Colors` page
+
+![Berry Bootstrap 5 - Colors page, Open-source Starter by AppSeed](https://user-images.githubusercontent.com/51070104/207091441-942be542-2794-4bdb-a51d-85c75b5bc692.jpg)
 
 <br />
 
