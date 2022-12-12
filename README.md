@@ -1,6 +1,6 @@
 # [Django Admin Berry](https://github.com/app-generator/django-admin-berry)
 
-Modern template for **Django Admin Interface** coded on top of **Berry Dashboard**, an open-source `Boostrap 5` design from `CodedThemes`.
+Modern template for **Django Admin Interface** coded on top of **Berry Dashboard**, an open-source `Boostrap 5` design from [CodedThemes](https://codedthemes.com/?ref=appseed). It is designed to deliver the best possible user experience with highly customizable feature-rich pages. `Berry` has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
 
 > Actively supported by [AppSeed](https://appseed.us/) via `Email` and `Discord`.
 
@@ -9,8 +9,13 @@ Modern template for **Django Admin Interface** coded on top of **Berry Dashboard
 **Links & Resources**
 
 - UI Kit: [Berry BS5](https://github.com/app-generator/cth-berry-bootstrap5) `v1.0.1` by CodedThemes
-- [Django Berry Dashboard](#) - `LIVE Demo` (soon)
+  - `Persistent` **Dark-Mode**
 - [Django Berry Dashboard](https://github.com/app-generator/django-berry-dashboard) - `playground project`
+- Sections Covered: 
+  - `admin` sections, reserved for superusers
+  - `All pages` managed by `Django.contrib.AUTH`
+  - `Registration` page
+  - `Misc pages`: colors, icons, typography, blank-page 
 
 <br />
 
@@ -20,10 +25,12 @@ Modern template for **Django Admin Interface** coded on top of **Berry Dashboard
 
 ## Why `Django Admin Berry`
 
-- Modern `Bootstrap 5` Design
+- Modern [Bootstrap 5](https://www.admin-dashboards.com/bootstrap-5-templates/) Design
 - `Responsive Interface`
 - `Minimal Template` overriding
 - `Easy integration`
+
+Berry Dashboard comes with error/bug-free, well structured codebase that renders nicely in all major browsers and devices. 
 
 <br />
 

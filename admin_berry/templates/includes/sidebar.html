@@ -73,7 +73,7 @@
               <li class="pc-item"><a class="pc-link" href="{% url 'logout' %}">Logout</a></li>
               {% else %}
               <li class="pc-item"><a class="pc-link" target="_blank" href="{% url 'login' %}">Login</a></li>
-              <li class="pc-item"><a class="pc-link" target="_blank" href="{% url 'register' %}">register</a></li>
+              <li class="pc-item"><a class="pc-link" target="_blank" href="{% url 'register' %}">Register</a></li>
               {% endif %}
             {% endif %}
           </ul>
@@ -101,16 +101,19 @@
           <label>Other</label>
           <i class="ti ti-brand-chrome"></i>
         </li>
-        <li class="pc-item"><a href="{% url 'sample_page' %}" class="pc-link"><span class="pc-micon"><i
+        <li class="pc-item">
+          <a href="{% url 'sample_page' %}" class="pc-link"><span class="pc-micon"><i
                 class="ti ti-brand-chrome"></i></span><span class="pc-mtext">Sample page</span></a></li>
-        <li class="pc-item"><a href="https://codedthemes.gitbook.io/berry-bootstrap/" target="_blank" class="pc-link"><span
-              class="pc-micon"><i class="ti ti-vocabulary"></i></span><span class="pc-mtext">Document</span></a></li>
+        <li class="pc-item">
+          <a href="https://github.com/app-generator/django-admin-berry" target="_blank" class="pc-link"><span
+              class="pc-micon"><i class="ti ti-vocabulary"></i></span><span class="pc-mtext">DOCS</span></a></li>
       </ul>
       {% endif %}
       <div class="pc-navbar-card bg-primary rounded">
         <h4 class="text-white">Berry Pro</h4>
         <p class="text-white opacity-75">Checkout Berry pro features</p>
-        <a href="https://codedthemes.com/item/berry-bootstrap-5-admin-template/" target="_blank" class="btn btn-light text-primary">Pro</a>
+        <a href="https://codedthemes.com/item/berry-bootstrap-5-admin-template/"  
+           target="_blank" class="btn btn-light text-primary">Pro</a>
       </div>
     </div>
   </div>
