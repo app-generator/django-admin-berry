@@ -10,7 +10,7 @@ Modern template for **Django Admin Interface** coded on top of **Berry Dashboard
 
 - UI Kit: [Berry BS5](https://github.com/app-generator/cth-berry-bootstrap5) `v1.0.1` by CodedThemes
 - [Django Berry Dashboard](#) - `LIVE Demo` (soon)
-- [Django Berry Dashboard](https://github.com/app-generator/django-admin-berry_p) - `playground project`
+- [Django Berry Dashboard](https://github.com/app-generator/django-berry-dashboard) - `playground project`
 
 <br />
 
