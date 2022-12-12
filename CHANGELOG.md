@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.0.1] 2022-12-12
+### Changes
+
+- DOCS Update (readme)
+- Links CleanUP (minor)
+
 ## [1.0.0] 2022-12-12
 ### Changes
 
