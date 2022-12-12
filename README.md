@@ -8,11 +8,11 @@ Modern template for **Django Admin Interface** coded on top of **Berry Dashboard
 
 **Links & Resources**
 
-- UI Kit: [Berry BS5](https://github.com/app-generator/cth-berry-bootstrap5) `v1.0.1` by CodedThemes
+- **UI Kit**: [Berry BS5](https://github.com/app-generator/cth-berry-bootstrap5) `v1.0.1` by CodedThemes
   - `Persistent` **Dark-Mode**
 - [Django Berry Dashboard](https://github.com/app-generator/django-berry-dashboard) - `playground project`
-- Sections Covered: 
-  - `admin` sections, reserved for superusers
+- **Sections Covered**: 
+  - `Admin Section`, reserved for `superusers`
   - `All pages` managed by `Django.contrib.AUTH`
   - `Registration` page
   - `Misc pages`: colors, icons, typography, blank-page 
