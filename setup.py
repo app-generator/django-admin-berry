@@ -8,14 +8,14 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
 name='django-admin-berry',
-version='1.0.6',
+version='1.0.7',
 zip_safe=False,
 packages=find_packages(),
 include_package_data=True,
 description='Modern template for Django admin interface (Berry Bootstrap 5 Design)',
 long_description=README,
 long_description_content_type="text/markdown",
-url='https://github.com/app-generator/django-admin-berry',
+url='https://appseed.us/product/berry-dashboard/django/',
 author='AppSeed.us',
 author_email='support@appseed.us',
 license='MIT License',

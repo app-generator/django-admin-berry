@@ -1,8 +1,8 @@
 # [Django Admin Berry](https://github.com/app-generator/django-admin-berry)
 
-Modern template for **Django Admin Interface** coded on top of **Berry Dashboard**, an open-source `Boostrap 5` design from [CodedThemes](https://codedthemes.com/?ref=appseed). It is designed to deliver the best possible user experience with highly customizable feature-rich pages. `Berry` has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
+Modern template for **Django Admin Interface** coded on top of **[Berry Dashboard](https://appseed.us/product/berry-dashboard/django/)**, an open-source `Boostrap 5` design from [CodedThemes](https://codedthemes.com/?ref=appseed). It is designed to deliver the best possible user experience with highly customizable feature-rich pages. `Berry` has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
 
-> **[Django Berry](https://django-berry-dashboard.onrender.com)** - `LIVE Demo` for [this](https://github.com/app-generator/django-berry-dashboard) sample project 
+> [Django Berry Dashboard](https://appseed.us/product/berry-dashboard/django/) - `sample project` (fully configured)
 
 <br>
 
@@ -11,7 +11,6 @@ Modern template for **Django Admin Interface** coded on top of **Berry Dashboard
 - Free [Support](https://appseed.us/support/) via `Email` & `Discord` provided by **AppSeed**
 - **UI Kit**: `Berry Bootstrap 5` by CodedThemes
   - `Persistent` **Dark-Mode**
-- [Django Berry Dashboard](https://github.com/app-generator/django-berry-dashboard) - `sample project` (fully configured)
 - **Sections Covered**: 
   - `Admin Section`, reserved for `superusers`
   - `All pages` managed by `Django.contrib.AUTH`
