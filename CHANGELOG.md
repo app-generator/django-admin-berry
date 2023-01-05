@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.7] 2023-01-05
+### Changes
+
+- DOCS Update (readme)
+- Publish product on AppSeed:
+  - [Django Berry Dashboard](https://appseed.us/product/berry-dashboard/django/) - `sample project` (fully configured)
+
 ## [1.0.6] 2022-12-21
 ### Changes
 
