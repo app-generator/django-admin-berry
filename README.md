@@ -1,6 +1,6 @@
 # [Django Admin Berry](https://appseed.us/product/berry-dashboard/django/)
 
-Modern template for **Django Admin Interface** coded on top of **[Berry Dashboard](https://appseed.us/product/berry-dashboard/django/)**, an open-source `Boostrap 5` design from [CodedThemes](https://codedthemes.com/?ref=appseed). It is designed to deliver the best possible user experience with highly customizable feature-rich pages. `Berry` has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
+Modern template for **Django Admin Interface** coded on top of **[Berry Dashboard](https://appseed.us/product/berry-dashboard/django/)**, an open-source `Boostrap 5` design from `CodedThemes`. It is designed to deliver the best possible user experience with highly customizable feature-rich pages. `Berry` has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
 
 > Actively supported by [AppSeed](https://appseed.us/) via `Email` and `Discord`.
 
