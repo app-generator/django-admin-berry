@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.10] 2023-01-30
+### Changes
+
+- Include DOCS link:
+  - [Berry Theme](https://docs.appseed.us/boilerplate-code/django-templates/berry-dashboard/)
+  - [Berry Dashboard](https://docs.appseed.us/products/django-dashboards/berry-dashboard/)
+
 ## [1.0.9] 2023-01-30
 ### Changes
 
