@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## [1.0.11] 2023-11-16
+### Changes
+
+- Updare RM Links
+  - [Django Admin Berry](https://app-generator.dev/docs/products/django-libs/theme-berry.html) - Documentation & Support Links
+  - [Django Berry](https://app-generator.dev/product/berry-dashboard/django/) - The product that uses the library
+  - [Getting Started with Django](https://app-generator.dev/docs/technologies/django/index.html) - Learn how to code **Django** Projects
+- Remove `length_is` filter
+  - Deprecated in Django 5.1
+
 ## [1.0.10] 2023-01-30
 ### Changes
 
