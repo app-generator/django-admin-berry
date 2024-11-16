@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.0.12] 2023-11-16
+### Changes (minor)
+
+- Update project HOMEpage:
+  - [Django Admin Berry](https://app-generator.dev/docs/products/django-libs/theme-berry.html) - Documentation & Support Links
+  
 ## [1.0.11] 2023-11-16
 ### Changes
 

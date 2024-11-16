@@ -2,7 +2,7 @@
 
 Modern template for **[Django Admin](https://app-generator.dev/docs/products/django-libs/theme-berry.html)**, Auth Pages (registration included) crafted on top of **Berry**, an open-source **Bootstrap** design.
 
-- [Django Admin Berry](https://app-generator.dev/docs/products/django-libs/theme-berry.html) - Documentation & Support Links
+- [Django Admin Berry](https://app-generator.dev/docs/products/django-libs/theme-berry.html) - **Documentation** & Support Links
 - [Django Berry](https://app-generator.dev/product/berry-dashboard/django/) - The product that uses the library
 - [Getting Started with Django](https://app-generator.dev/docs/technologies/django/index.html) - Learn how to code **Django** Projects
 
