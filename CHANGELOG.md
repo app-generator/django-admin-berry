@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.0.13] 2024-12-16
+### Changes
+
+- Mention [Django App Generator - Berry Design](https://app-generator.dev/tools/django-generator/berry/)
+
 ## [1.0.12] 2023-11-16
 ### Changes (minor)
 
