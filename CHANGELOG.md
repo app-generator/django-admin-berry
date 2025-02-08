@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.0.14] 2025-02-08
+### Changes
+
+- Update Sidebar Links (minor)
+
 ## [1.0.13] 2024-12-16
 ### Changes
 
