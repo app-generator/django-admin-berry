@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.0.15] 2025-02-08
+### Changes
+
+- Added canonical in header (minor)
+
 ## [1.0.14] 2025-02-08
 ### Changes
 
