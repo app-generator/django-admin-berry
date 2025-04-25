@@ -21,7 +21,6 @@ def icon_tabler(request):
 def sample_page(request):
   return render(request, 'pages/sample-page.html')
 
-
 # Authentication
 def registration(request):
   if request.method == 'POST':

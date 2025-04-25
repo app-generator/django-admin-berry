@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.16] 2025-04-25
+### [Berry Dashboard](https://app-generator.dev/product/berry-dashboard/) Integration Changes
+
+- Update RM Links
+  - [Berry Dashboard](https://app-generator.dev/product/berry-dashboard/) Design 
+  - [CodedThemes](https://app-generator.dev/agency/codedthemes/) Agency
+
 ## [1.0.15] 2025-02-08
 ### Changes
 
