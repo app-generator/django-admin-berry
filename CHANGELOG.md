@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.0.17] 2025-05-15
+### [Berry Dashboard](https://app-generator.dev/product/berry-dashboard/) Integration Changes
+
+- Update Library Links (minor)
+
 ## [1.0.16] 2025-04-25
 ### [Berry Dashboard](https://app-generator.dev/product/berry-dashboard/) Integration Changes
 
